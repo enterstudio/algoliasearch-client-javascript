@@ -71,7 +71,7 @@
     "querystring-es3": "^0.2.1",
     "reduce": "^1.0.1",
     "semver": "^5.1.0",
-    "tunnel-agent": "^0.4.3"
+    "tunnel-agent": "^0.6.0"
   },
   "devDependencies": {
     "angular": "^1.6.2",
